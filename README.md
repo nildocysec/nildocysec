@@ -7,7 +7,7 @@
 
 ## Currently Learning
 
-**TryHackMe → Jr. Penetration Tester Path**  
+**TryHackMe →**  
 
 - [ ] In progress: **Penetration Tester**
 - [x] **Cyber Security 101** 
