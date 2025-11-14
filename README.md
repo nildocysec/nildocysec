@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I am Nil! 👋
 
-<!--
-**nildocysec/nildocysec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nildocysec** is my GitHub profile & public cybersecurity learning log.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Learning
+
+**TryHackMe → Jr. Penetration Tester Path**  
+
+- [ ] In progress: **Penetration Tester**
+- [x] **Cyber Security 101** 
+- [x] **Pre-Security**  
+ 
+<img src="https://tryhackme-badges.s3.amazonaws.com/nildocysec.png" alt="TryHackMe Badge" />
+
+
+---
+
+## Contact Me
+
+[![Reddit](https://img.shields.io/badge/Reddit-u/nildocysec-red?style=social&logo=reddit)](https://reddit.com/u/nildocysec)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-nildocysec-black?style=social&logo=github)](https://github.com/nildocysec)  
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-nildocysec-red?style=social&logo=tryhackme)](https://tryhackme.com/p/nildocysec)
+
+
+---
+
+**Thanks for stopping by!**  
+
+Feedback, tips, or a quick hello always welcome.
+
+
+---
