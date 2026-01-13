@@ -13,7 +13,7 @@
 - [x] **Cyber Security 101** 
 - [x] **Pre-Security**
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nildocysec.png)](https://tryhackme.com/p/nildocysec)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nildocysec.png?cache-control=no-cache)](https://tryhackme.com/p/nildocysec)
 
 ---
 
