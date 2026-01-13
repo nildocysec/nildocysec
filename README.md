@@ -9,7 +9,7 @@
 
 **TryHackMe →**  
 
-- [ ] In progress: **Penetration Tester**
+- [ ] In progress: **Web Fundamentals**
 - [x] **Cyber Security 101** 
 - [x] **Pre-Security**  
  
