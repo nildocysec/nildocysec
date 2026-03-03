@@ -13,10 +13,8 @@
 - [x] **Cyber Security 101** 
 - [x] **Pre-Security**
 
-[![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5839330" style='border:none;'></iframe>)](https://tryhackme.com/p/nildocysec)
-🏆 **Top 4%**
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-%23ff6600?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/nildocysec)
+
 ---
 
 ## Contact Me
