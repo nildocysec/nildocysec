@@ -13,7 +13,7 @@
 - [x] **Cyber Security 101** 
 - [x] **Pre-Security**
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nildocysec.png?cache-control=no-cache)](https://tryhackme.com/p/nildocysec)
+[![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5839330" style='border:none;'></iframe>)](https://tryhackme.com/p/nildocysec)
 🏆 **Top 4%**
 ---
 
